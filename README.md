@@ -9,4 +9,3 @@ This repository contains an embedded C firmware application developed for the ST
 ## Tools Used
 - **STM32CubeIDE**: Firmware development, compilation, and code generation.
 - **PICSimLab**: Simulating the hardware behavior and validating binary execution.
--
